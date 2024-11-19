@@ -28,7 +28,7 @@ const App = () => {
               : 'text-gray-800'
               }`}
           >
-            Mario Suaza
+            James Pineda
           </a>
 
           {/* Menú */}
@@ -80,7 +80,7 @@ const App = () => {
       <footer className={`py-4 ${darkMode ? 'bg-gray-800' : 'bg-gray-200'}`}>
         <div className="container mx-auto text-center">
           <p className={`text-sm ${darkMode ? 'text-gray-200' : 'text-gray-800'}`}>
-            2023 Mario Suaza. Todos los derechos reservados.
+            2023 James Pineda. Todos los derechos reservados.
           </p>
         </div>
       </footer>

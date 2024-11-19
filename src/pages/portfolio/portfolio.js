@@ -4,7 +4,7 @@ const Portfolio = ({ darkMode }) => {
       <div className="container mx-auto">
         <div className="mb-8 text-center">
           <h2 className={`text-4xl font-bold ${darkMode ? 'text-gray-200' : 'text-gray-800'}`}>
-            Portafolio de Mario Alberto Suaza Echeverry
+            Portafolio de Jhon James Pineda Arango
           </h2>
           <p className={`text-lg ${darkMode ? 'text-gray-400' : 'text-gray-600'}`}>
             Experiencia y proyectos destacados.
